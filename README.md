@@ -13,7 +13,7 @@
  ssr://ODkuMzEuMTI2LjIyNTo4MzI0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpSSG8yVjNWbC8_b2Jmc3BhcmFtPSZncm91cD1WQQ
 
  #####
- ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg)
+ ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg) SCAN WITH WECHAT APP
 
 
 ### 注意事项
