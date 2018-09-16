@@ -1,5 +1,3 @@
-# ssr-address-free
-
 ssr://MTU5LjY1LjEyOC4yMTI6MTc5ODg6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFYTjRMbmwwTFRjNU9UUTNOVGMwLz9vYmZzcGFyYW09
 ssr://MTAzLjQ0LjYxLjcyOjgwOm9yaWdpbjphZXMtMTI4LWN0cjpwbGFpbjpkM2QzTG5OemNtZHZMblpwY0EvP29iZnNwYXJhbT0
 ssr://MTc4LjEyOC41NC4zNjoxOTc2ODpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YVhONExubDBMVFU0TnpNNU16UTMvP29iZnNwYXJhbT0
@@ -27,29 +25,3 @@ ssr://MTc4LjEyOC4xMDkuNjk6MTYzMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFYTjRMbmwwTF
 ssr://MjEzLjE4My40OC4xMDoxNzE2NDpvcmlnaW46cmM0LW1kNTpwbGFpbjpjM000TG5CdExUYzVOVFF6T1Rnei8_b2Jmc3BhcmFtPQ
 ssr://MTA0LjI0OC4xOTEuNDM6MTk3NzM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzTjRMbkpsTFRjek56WXdOekkwLz9vYmZzcGFyYW09
 ssr://MTU5LjY1LjEyOC4yMTI6MTcwMTI6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFYTjRMbmwwTFRZek5qQTFOalV6Lz9vYmZzcGFyYW09
-
-
-
- #####
- ![Sponsor me](https://github.com/wangzhenjjcn/IMAGE/blob/master/StarMe.jpg) SCAN WITH WECHAT APP
-
-
-### 注意事项
- 禁止使用免费账号进行黑客攻击，BT下载，滥发垃圾邮件。这些账号来之不易，请珍惜使用。
- 如何使用？
- 请自行摸索。客服也不知道怎么使用，请勿发邮件询问。
- 为什么突然就用不了呢？
- 应该是众所周知的不可抗拒的原因吧。
- 这个和那个是什么意思？
- 请自行摸索。
- 联系方式？
- 发送邮件到客服邮箱 wangzhenjjcn at gmail dot com 申报故障或其他建议。
- 
- 
-<h1 align="center"> 免责声明 </h1>
-<p align="center">
-只面向海外华人用户且仅供科研学习之用，切勿用于其他用途
-<br>
-中国居民请自觉关闭并在24小时之内删掉与本项目相关的一切内容，否则出现一切问题，项目作者概不负责
-</p>
-<hr>
