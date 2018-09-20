@@ -1,0 +1,47 @@
+Dim min_num
+Dim max_num
+Dim start
+Dim currentnum
+    '==========从第几个开始（默认1）==========
+min_num = 1
+    '==========从第几个结束（默认10）==========
+max_num = 10
+start=351
+currentnum=start+min_num*27-27
+For i = min_num To max_num
+    '==========挪到二维码上==========
+    MoveTo 1366, currentnum
+    currentnum=currentnum+27
+    LeftClick 1
+    Delay 500
+    '==========挪到二维码上==========
+    '==========挪到飞机上==========
+    MoveTo 1757, 1060
+    RightClick 1
+    Delay 300
+    '==========挪到飞机上==========
+    '==========挪到二维码扫描上==========
+    MoveTo 1619, 973
+    LeftClick 1
+    Delay 2000
+    '==========挪到二维码扫描上==========
+    '==========写组========== 
+    MoveTo 879, 591
+    Delay 300
+    LeftClick 1
+    Delay 300
+    KeyPress "D", 1
+    Delay 300
+    '==========写组========== 
+    '==========写组========== 
+    MoveTo 803, 706
+    LeftClick 1
+    Delay 300
+    '==========写组========== 
+    MoveTo 1717, 664
+    Delay 300
+    LeftClick 1
+    Delay 300
+    LeftClick 1
+Next
+ 
