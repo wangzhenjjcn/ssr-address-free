@@ -3,12 +3,12 @@ SSR
 ![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook") 
 
 
-[.NetFramework 4.6.2  >>>59.1 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/NDP462-KB3151800-x86-x64-AllOS-ENU.exe "NDP462-KB3151800-x86-x64-AllOS-ENU.exe")
-[ShadowsocksR-win-4.9.0.7z >>>1.14 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/ShadowsocksR-win-4.9.0.7z "ShadowsocksR-win-4.9.0.7z")
-[vc2017redist_x64.exe >>>14.5 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc2017redist_x64.exe "vc2017redist_x64.exe")
-[vc_redist.x64.exe >>>14.6 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc_redist.x64.exe "vc_redist.x64.exe")
-[Source code >>>zip<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.zip "Source code")
-[Source code >>>tar.gz<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.tar.gz "Source code")
+[.NetFramework 4.6.2  >>>59.1 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/NDP462-KB3151800-x86-x64-AllOS-ENU.exe "NDP462-KB3151800-x86-x64-AllOS-ENU.exe")    
+[ShadowsocksR-win-4.9.0.7z >>>1.14 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/ShadowsocksR-win-4.9.0.7z "ShadowsocksR-win-4.9.0.7z")    
+[vc2017redist_x64.exe >>>14.5 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc2017redist_x64.exe "vc2017redist_x64.exe")    
+[vc_redist.x64.exe >>>14.6 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc_redist.x64.exe "vc_redist.x64.exe")    
+[Source code >>>zip<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.zip "Source code")    
+[Source code >>>tar.gz<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.tar.gz "Source code")    
  
 
 # Require
