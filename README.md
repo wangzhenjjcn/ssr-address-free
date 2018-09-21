@@ -1,32 +1,32 @@
-# ssr-address-free
+SSR
+==========================================================================
+![wangzhen](https://avatars1.githubusercontent.com/u/1842578?s=40&v=4)@[wangzhenjjcn](https://github.com/wangzhenjjcn "GitHub") [FaceBook](https://www.facebook.com/wangzhenjjcn "点击查看我的Facebook") 
+@wangzhenjjcn wangzhenjjcn released this a day ago · 4 commits to master since this release
+
+![.NetFramework 4.6.2  >>>59.1 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/NDP462-KB3151800-x86-x64-AllOS-ENU.exe "NDP462-KB3151800-x86-x64-AllOS-ENU.exe")
+![ShadowsocksR-win-4.9.0.7z >>>1.14 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/ShadowsocksR-win-4.9.0.7z "ShadowsocksR-win-4.9.0.7z")
+![vc2017redist_x64.exe >>>14.5 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc2017redist_x64.exe "vc2017redist_x64.exe")
+![vc_redist.x64.exe >>>14.6 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc_redist.x64.exe "vc_redist.x64.exe")
+![Source code >>>zip<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.zip "Source code")
+![Source code >>>tar.gz<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.tar.gz "Source code")
+ 
+
+ Require
+1.  Microsoft .NET Framework 4.6.2 (Offline Installer) for Windows 7 SP1, Windows 8.1, Windows 10, Windows 10 November Update, Windows Server 2008 R2 SP1, Windows Server 2012 and Windows Server 2012 R2
+https://www.microsoft.com/en-US/download/confirmation.aspx?id=53344
+2. Microsoft Visual C++ 2015 Redistributable Update 3
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=53840
 
 
-ssr://MTA3LjE3MC4yMzIuMTQwOjE2MTU0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM000TG5CdExURTVOREk1TXprMi8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTA3LjE3MC4yMjkuMjQ6MTMzMDQ6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFYTjRMbmwwTFRFeE9ERTNORGcxLz9vYmZzcGFyYW09Jmdyb3VwPVJR
-ssr://MTA0LjI0OC4xOTAuMTM1OjEzOTExOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM040TG5KbExUWXhPRFF3TkRFNC8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTA0LjE2OC4xMjUuMTEzOjIzMzM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmRYTmxjZy8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTA3LjE3MC4yMzQuMzQ6MTU1OTg6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFYTjRMbmwwTFRBeE9Ea3hPRFkyLz9vYmZzcGFyYW09Jmdyb3VwPVJR
-ssr://MTI4LjE5OS4xNTIuMTczOjEzMzc0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM000TG5CdExUSTBNekEwTXpFeS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTI4LjE5OS4xNjMuMjI2OjExODEzOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphWE40TG5sMExURTBPVFl3TURVeS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTI4LjE5OS4xNjQuMTc0OjE2NDE3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphWE40TG5sMExUUTBOREU0TXpBei8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTU1Ljk0LjE4Ni40MTo2MDAwMTpvcmlnaW46eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cGxhaW46VjNWSlJEYzBPRkkzYzNCYS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTczLjIzMC4xMzIuMjQzOjExMjY3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaalUxTG1aMWJpMDNNVFExTlRJMk13Lz9vYmZzcGFyYW09Jmdyb3VwPVJR
-ssr://MTc4LjEyOC4xMTUuMjQ0OjEwMDA3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM040TG5KbExURXhPRGczTURndy8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTkyLjI0MS4xOTIuMTI5OjE0MTI1Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphWE40TG5sMExUY3hOekUxTmpJNS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTkyLjI0MS4yMTQuMTE3OjExNTY3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM040TG5KbExUSTBNRGN6TVRNMy8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MTk4Ljc0LjUzLjMzOjE5NDA1Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphWE40TG5sMExUVXpORGcwTWpNeS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://MjEzLjE4My40OC4xMDoxODI4NDpvcmlnaW46cmM0LW1kNTpwbGFpbjpjM000TG5CdExUQTFOakF3T1RJeC8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://NDUuNTUuMi4yMzI6MTQyOTQ6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk5HUTNPV1ppLz9vYmZzcGFyYW09Jmdyb3VwPVJR
-ssr://NDUuNTYuMTEzLjE2OToxNTI3MjpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WmpVMUxtWjFiaTAwT0RRd05ESTVOUS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://NDYuMTcuNDMuMjoyMjEwMDpvcmlnaW46YWVzLTI1Ni1nY206cGxhaW46ZDBkUk5IWkJOMFEvP29iZnNwYXJhbT0mZ3JvdXA9UlE
-ssr://NTAuMTE2LjMyLjU5OjExMTYyOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaalUxTG1aMWJpMHlNRFF5TnpZM05BLz9vYmZzcGFyYW09Jmdyb3VwPVJR
-ssr://NTAuMTE2LjM0LjEyODoxMTAyNzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YVhONExubDBMVGcxTVRFeE1EazMvP29iZnNwYXJhbT0mZ3JvdXA9UlE
-ssr://NTAuMTE2LjM1LjE2MzoxMTcyNDpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YVhONExubDBMVFl4TWpBeU1URTIvP29iZnNwYXJhbT0mZ3JvdXA9UlE
-ssr://NTQuMTgwLjAuMTQ0Ojg4NjY6b3JpZ2luOmNoYWNoYTIwLWlldGY6cGxhaW46YldwcS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://NzQuMjA3LjIzMi44NjoxMzY2NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WmpVMUxtWjFiaTA1T0RBMU5EYzJPQS8_b2Jmc3BhcmFtPSZncm91cD1SUQ
-ssr://NzQuMjA3LjIzNy4xODc6MTk5MTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpqVTFMbVoxYmkwd09URTFOamd4TWcvP29iZnNwYXJhbT0mZ3JvdXA9UlE
-
-
+# It Works！
+1. Open SSR client app
+2. Copy SSR address from GitHub
+3. Right click on the app icon then click add server from the clipboard
+4. Click OK
+5. Enjoy it
+ 
+ 
+ 
 
 
  #####
