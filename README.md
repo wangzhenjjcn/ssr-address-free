@@ -7,9 +7,9 @@ SSR
 [ShadowsocksR-win-4.9.0.7z >>>1.14 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/ShadowsocksR-win-4.9.0.7z "ShadowsocksR-win-4.9.0.7z")    
 [vc2017redist_x64.exe >>>14.5 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc2017redist_x64.exe "vc2017redist_x64.exe")    
 [vc_redist.x64.exe >>>14.6 MB<<<](https://github.com/wangzhenjjcn/ssr-address-free/releases/download/V1.0/vc_redist.x64.exe "vc_redist.x64.exe")    
-[Source code >>>zip<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.zip "Source code")    
-[Source code >>>tar.gz<<<](https://github.com/wangzhenjjcn/ssr-address-free/archive/V1.0.tar.gz "Source code")    
- 
+
+
+
 
 # Require
 1.  Microsoft .NET Framework 4.6.2 (Offline Installer) for Windows 7 SP1, Windows 8.1, Windows 10, Windows 10 November Update, Windows Server 2008 R2 SP1, Windows Server 2012 and Windows Server 2012 R2
