@@ -36,6 +36,28 @@ https://www.microsoft.com/en-us/download/confirmation.aspx?id=53840
  联系方式？
  发送邮件到客服邮箱 wangzhenjjcn at gmail dot com 申报故障或其他建议。
  
+ ##
+ It is forbidden to use free accounts for hacker attacks, BT downloads, spam spam. 
+ ####
+ Q:How to use? 
+ #####
+ A:Please explore it yourself.The customer service does not know how to use it, please do not send an email to ask. 
+ ####
+ Q:Why can't I suddenly use it? 
+ #####
+ A:It should be a well-known irresistible reason. 
+ ####
+ Q:What does this and that mean? 
+ #####
+ A:Please explore it yourself. 
+ ####
+ Q:Contact information? 
+ #####
+ A:Send an email to the customer service email wangzhenjjcn at gmail dot com to report the fault or other suggestions.
+ 
+ 
+ 
+ 
  
 <h1 align="center"> 免责声明 </h1>
 <p align="center">
