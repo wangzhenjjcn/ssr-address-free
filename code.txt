@@ -1,0 +1,103 @@
+Dim qrCode_x
+Dim globe_x
+Dim row_y
+Dim plane_x
+Dim plane_y
+Dim group_x
+Dim group_y
+Dim group_y2
+Dim min_num
+Dim max_num
+Dim first_row_y
+Dim pianyi
+Dim check_x
+Dim check_y
+'==========从第几个开始（默认0）==========
+min_num = 0
+'==========从第几个结束（默认10）==========
+max_num = 35
+
+
+'==========yx==========
+first_row_y = 380//start=367
+qrCode_x = 1358
+'==========yx==========
+check_x=840
+check_y=472
+
+
+globe_x=qrCode_x-54
+plane_x = 1757
+plane_y = 1060
+group_x = 1119
+group_y = 620
+group_y2= 591
+row_y = first_row_y + min_num * 27
+For i = min_num To (max_num - 1)
+    MoveTo globe_x, row_y
+    Delay 50
+    LeftDoubleClick 1
+    Delay 50
+    KeyDown 17, 1
+    Delay 50
+    KeyPress 67, 1
+    Delay 50
+    KeyUp 17, 1
+    '==========挪到二维码上==========
+    MoveTo qrCode_x, row_y
+    LeftClick 1
+    Delay 500
+    '==========挪到二维码上==========
+    IfColor check_x, check_y, "0", 0 Then
+        '==========挪到飞机上==========
+        MoveTo plane_x, plane_y
+        RightClick 1
+        Delay 300
+        '==========挪到飞机上==========
+        '==========挪到二维码扫描上==========
+        MoveTo plane_x-138, plane_y-87
+        LeftClick 1
+        Delay 3000
+        '==========挪到二维码扫描上==========
+        //    '==========写组========== 
+        IfColor 643, 275, "A382E4", 2 Then
+            MoveTo group_x, group_y
+            Delay 300
+            LeftClick 1
+            Delay 30
+            KeyDown 17, 1
+            Delay 30
+            KeyPress 86, 1
+            Delay 30
+            KeyUp 17, 1
+            Delay 30
+            MoveTo 980, 735
+            LeftClick 1
+        Else 
+            MoveTo group_x, group_y2
+            Delay 300
+            LeftClick 1
+            Delay 30
+            KeyDown 17, 1
+            Delay 30
+            KeyPress 86, 1
+            Delay 30
+            KeyUp 17, 1
+            Delay 30
+            MoveTo 980, 707
+            LeftClick 1
+        End If
+        Delay 300
+        '==========随机点========== 
+        MoveTo 1619, 848
+        Delay 300
+        LeftClick 1
+        Delay 300
+        LeftClick 1
+        '==========随机点========== 
+        row_y = row_y + 27
+    Else 
+        Goto ends
+    End If
+Next
+Rem ends
