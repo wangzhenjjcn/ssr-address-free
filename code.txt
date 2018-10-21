@@ -12,27 +12,61 @@ Dim first_row_y
 Dim pianyi
 Dim check_x
 Dim check_y
-'==========从第几个开始（默认0）==========
+Dim ok_x
+Dim ok_y
+Dim ok_y2
+Dim redclolor_x  
+Dim redclolor_y 
+
+
+'==========′óμú?????aê?￡¨??è?0￡?==========
 min_num = 0
-'==========从第几个结束（默认10）==========
+'==========′óμú?????áê?￡¨??è?10￡?==========
 max_num = 35
 
 
-'==========yx==========
+'==========μúò???qr==========
 first_row_y = 380//start=367
 qrCode_x = 1358
-'==========yx==========
+'==========μúò???qrí?±ê==========
+
+'==========qrí?±ê×óé???oúμ?==========
 check_x=840
-check_y=472
+check_y=470
+'==========qrí?±ê×óé???oúμ?==========
+
+globe_x = qrCode_x - 54
 
 
-globe_x=qrCode_x-54
+'==========óòD???·é?ú×?±ê==========
 plane_x = 1757
 plane_y = 1060
+'==========óòD???·é?ú×?±ê==========
+
+'==========·?×éê?è??ò×?±ê==========
 group_x = 1119
 group_y = 620
-group_y2= 591
+group_y2 = 591
+'==========·?×éê?è??ò×?±ê==========
+
+'==========·?×éê?è??ò×?±ê==========
+ok_x = 980
+ok_y = 735
+ok_y2 = 707
+'==========·?×éê?è??ò×?±ê==========
+
+'==========·?oìé?×é?ò==========
+redclolor_x = 643
+redclolor_y = 275
+'==========·?oìé?×é?ò==========
+
+
+
+
 row_y = first_row_y + min_num * 27
+
+
+TracePrint "start"
 For i = min_num To (max_num - 1)
     MoveTo globe_x, row_y
     Delay 50
@@ -43,24 +77,24 @@ For i = min_num To (max_num - 1)
     KeyPress 67, 1
     Delay 50
     KeyUp 17, 1
-    '==========挪到二维码上==========
+    '==========?2μ??t????é?==========
     MoveTo qrCode_x, row_y
     LeftClick 1
     Delay 500
-    '==========挪到二维码上==========
+    '==========?2μ??t????é?==========
     IfColor check_x, check_y, "0", 0 Then
-        '==========挪到飞机上==========
+        '==========?2μ?·é?úé?==========
         MoveTo plane_x, plane_y
         RightClick 1
         Delay 300
-        '==========挪到飞机上==========
-        '==========挪到二维码扫描上==========
+        '==========?2μ?·é?úé?==========
+        '==========?2μ??t????é¨?èé?==========
         MoveTo plane_x-138, plane_y-87
         LeftClick 1
         Delay 3000
-        '==========挪到二维码扫描上==========
-        //    '==========写组========== 
-        IfColor 643, 275, "A382E4", 2 Then
+        '==========?2μ??t????é¨?èé?==========
+        //    '==========D′×é========== 
+        IfColor redclolor_x, redclolor_y, "A382E4", 2 Then
             MoveTo group_x, group_y
             Delay 300
             LeftClick 1
@@ -71,7 +105,7 @@ For i = min_num To (max_num - 1)
             Delay 30
             KeyUp 17, 1
             Delay 30
-            MoveTo 980, 735
+            MoveTo ok_x, ok_y
             LeftClick 1
         Else 
             MoveTo group_x, group_y2
@@ -84,17 +118,17 @@ For i = min_num To (max_num - 1)
             Delay 30
             KeyUp 17, 1
             Delay 30
-            MoveTo 980, 707
+            MoveTo ok_x, ok_y2
             LeftClick 1
         End If
         Delay 300
-        '==========随机点========== 
-        MoveTo 1619, 848
+        '==========???úμ?========== 
+        MoveTo 97, 225
         Delay 300
         LeftClick 1
         Delay 300
         LeftClick 1
-        '==========随机点========== 
+        '==========???úμ?========== 
         row_y = row_y + 27
     Else 
         Goto ends
