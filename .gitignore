@@ -27,5 +27,6 @@ update.py
 run.bat
 code.txt
 *.bat
+*.conf
 *.py
 *.json
