@@ -1,4 +1,4 @@
-SSR
+Free VPN Free SS and ShadowsocksR All Platform
 ==========================================================================
 ## See Release Page
 
